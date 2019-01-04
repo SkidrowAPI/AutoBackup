@@ -1,0 +1,6 @@
+name: AutoBackup
+main: ru.looprich.backup.AutoBackup
+version: 1.0
+author: LoopRich161
+description: >
+  This plugin makes backup cards in a separate folder.
